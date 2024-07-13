@@ -25,6 +25,6 @@ FN + F is used in junction with the "Popout tab" extension to chrome (https://ch
 
 -   Open the QMK MSYS application
 -   Go to the qmk_firmware folder (e.g. C:\Users\{USER}\Documents\qmk_firmware)
--   Run this command to compele `qmk compile -kb gmmk/pro/rev1/ansi -km ashan`
+-   Run this command to compele `qmk compile -kb gmmk/pro/rev1/ansi -km ashanpw`
 -   Put keyboard into bootloader mode (CAPS + some key)
--   Then run this comment qmk flash -kb `gmmk/pro/rev1/ansi -km ashan`
+-   Then run this comment qmk flash -kb `gmmk/pro/rev1/ansi -km ashanpw`
